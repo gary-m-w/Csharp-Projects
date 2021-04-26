@@ -8,10 +8,6 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 /*  
- * Garrett Wadley
- * 001039065
- * Due: 11/3
- * Submitted: 11/3
  * Goal:  Create a hospital visit calculator that utilized methods to calculate data (Ch.6 Problem #6)
  */
 
