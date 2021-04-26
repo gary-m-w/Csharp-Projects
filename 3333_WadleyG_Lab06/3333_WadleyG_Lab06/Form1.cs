@@ -9,10 +9,6 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 
 /*  
- * Garrett Wadley
- * 001039065
- * Due: 11/17
- * Submitted: 11/17
  * Goal:  Create a donut calculator that demonstrates List functions utilizing a ComboBox.
  */
 
