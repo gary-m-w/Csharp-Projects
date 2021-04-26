@@ -9,10 +9,6 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 
 /*
- * Garrett Wadley
- * 001039065
- * Due: 10/06
- * Submitted: 10/05
  * Goal: Create a software package calculator that accounts for varying discounts (Ch.4 Problem #7)
  */
 
