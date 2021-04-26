@@ -9,10 +9,6 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 
 /*
- * Garrett Wadley
- * 001039065
- * Due: 09/15
- * Submitted: 09/12
  * Goal: Create a calculator for stadium seating revenues (Ch.3 Problem #14)
  */
 
