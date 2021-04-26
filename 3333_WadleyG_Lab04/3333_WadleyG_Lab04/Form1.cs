@@ -9,10 +9,6 @@ using System.Threading.Tasks;
 using System.Windows.Forms;
 
 /*
- * Garrett Wadley
- * 001039065
- * Due: 10/20
- * Submitted: 10/20
  * Goal: Create a simple distance calculator that displays travel increments through a loop and ListBox control (Ch.5 Problem #1)
  */
 
