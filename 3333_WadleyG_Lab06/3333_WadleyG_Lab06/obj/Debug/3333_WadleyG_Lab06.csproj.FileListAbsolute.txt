@@ -1,0 +1,10 @@
+C:\Users\Garrett\source\repos\3333_WadleyG_Lab06\3333_WadleyG_Lab06\obj\Debug\3333_WadleyG_Lab06.csprojAssemblyReference.cache
+C:\Users\Garrett\source\repos\3333_WadleyG_Lab06\3333_WadleyG_Lab06\obj\Debug\_3333_WadleyG_Lab06.Form1.resources
+C:\Users\Garrett\source\repos\3333_WadleyG_Lab06\3333_WadleyG_Lab06\obj\Debug\_3333_WadleyG_Lab06.Properties.Resources.resources
+C:\Users\Garrett\source\repos\3333_WadleyG_Lab06\3333_WadleyG_Lab06\obj\Debug\3333_WadleyG_Lab06.csproj.GenerateResource.cache
+C:\Users\Garrett\source\repos\3333_WadleyG_Lab06\3333_WadleyG_Lab06\obj\Debug\3333_WadleyG_Lab06.csproj.CoreCompileInputs.cache
+C:\Users\Garrett\source\repos\3333_WadleyG_Lab06\3333_WadleyG_Lab06\bin\Debug\3333_WadleyG_Lab06.exe.config
+C:\Users\Garrett\source\repos\3333_WadleyG_Lab06\3333_WadleyG_Lab06\bin\Debug\3333_WadleyG_Lab06.exe
+C:\Users\Garrett\source\repos\3333_WadleyG_Lab06\3333_WadleyG_Lab06\bin\Debug\3333_WadleyG_Lab06.pdb
+C:\Users\Garrett\source\repos\3333_WadleyG_Lab06\3333_WadleyG_Lab06\obj\Debug\3333_WadleyG_Lab06.exe
+C:\Users\Garrett\source\repos\3333_WadleyG_Lab06\3333_WadleyG_Lab06\obj\Debug\3333_WadleyG_Lab06.pdb
