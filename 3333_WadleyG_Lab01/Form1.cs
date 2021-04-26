@@ -1,8 +1,4 @@
 ﻿/*
- * Garrett Wadley
- * 001039065
- * 9/1
- * 8/30
  * Create a GUI that displays a few of my favorite things.
  */
  using System;
